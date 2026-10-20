@@ -1,4 +1,4 @@
-# Pandas Operations Notebook
+# Pandas Operations Notebook 
 
 This repository contains a Jupyter Notebook (`.ipynb`) demonstrating various fundamental operations and concepts in the Pandas library for data manipulation and analysis in Python.
 
